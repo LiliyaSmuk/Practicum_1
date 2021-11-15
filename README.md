@@ -7,6 +7,9 @@
 1.	Зарегистрироваться на сайте github.com
 2.	Установить на компьютере программу Git
 3.	Форкнуть данный репозиторий в свой аккаунт
+
+    https://github.com/LiliyaSmuk/0_git_basics
+    
     <img width="944" alt="3" src="https://user-images.githubusercontent.com/90343173/141864080-edf6c34b-fb05-4898-964c-52312ba9d37c.png">
  
 4.	Склонировать созданный удаленный репозиторий в директорию ~/git/test
